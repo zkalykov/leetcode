@@ -1,7 +1,2 @@
-      /\
-     /  \
-    /    \
-   /______\
-   |      |
-   |  🚀  |
-   |______|
+# 🚀 Rocket Status: Active
+## LeetCode Progress: 🔥🔥🔥
